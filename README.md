@@ -14,7 +14,7 @@
 
 ## ✨ Features
 
-### Core Requirements (All Met)
+### Core Requirements
 | Feature | Status | Details |
 |---|---|---|
 | Dashboard Overview | ✅ | Summary cards, trend chart, spending pie, savings bar |
@@ -24,7 +24,7 @@
 | State Management | ✅ | React Context + useReducer, all state centralized |
 | Responsive Design | ✅ | Works on mobile, tablet, desktop |
 
-### Optional Enhancements (Implemented)
+### Optional Enhancements
 | Feature | Status |
 |---|---|
 | Dark / Light Mode | ✅ Toggleable, persists via localStorage |
