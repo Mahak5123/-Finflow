@@ -12,12 +12,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-Open `finflow-dashboard.html` directly in any browser — no server required.
-
----
-
 ## ✨ Features
 
 ### Core Requirements (All Met)
@@ -67,8 +61,6 @@ npm run dev
 # Build for production
 npm run build
 ```
-
-Or simply open `finflow-dashboard.html` in a browser (fully self-contained).
 
 ---
 
