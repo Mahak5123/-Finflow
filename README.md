@@ -1,6 +1,12 @@
 # FinFlow — Finance Dashboard
 
-> A premium, production-grade finance dashboard built as part of the Zorvyn Frontend Developer Intern assignment.
+> A modern, feature-rich finance dashboard that helps 
+> users track income, expenses and spending patterns 
+> through interactive charts, smart insights and a 
+> clean intuitive interface built with React.
+
+## 🚀 Live Demo
+👉 **https://finflow-alpha-lime.vercel.app**
 
 ![FinFlow Dashboard](https://img.shields.io/badge/React-18-blue?style=flat-square&logo=react) ![Recharts](https://img.shields.io/badge/Recharts-2.10-green?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-5-purple?style=flat-square)
 
